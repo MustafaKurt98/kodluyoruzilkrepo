@@ -7,5 +7,10 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 
 
+<<<<<<< HEAD
 
 `https://github.com/MustafaKurt98/kodluyoruzilkrepo.git`
+=======
+'https://github.com/MustafaKurt98/kodluyoruzilkrepo.git'
+
+>>>>>>> 7415eea57a57f3d78b23028cb509d01654346658
